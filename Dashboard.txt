@@ -1,0 +1,18 @@
+App control de Tiempos
+
+DImensiones
+	Cliente
+	Proyecto
+	Ciudad
+	Tiempo (año, mes, día, semana, añomes, día, día semana, semana año)
+	Estado Reporte
+	Lugar Trabajo
+	Tipo Actividad
+
+Dashboard
+	Nro. Clientes
+	Nro. Proyectos
+	Nro. Jornadas
+	Nro. Horas Reales
+	Nro. Horas Presupuestadas
+	% Cumplimiento
